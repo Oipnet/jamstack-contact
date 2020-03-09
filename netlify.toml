@@ -1,0 +1,4 @@
+[build]
+  publish = "_site"
+  functions = "functions"
+  command = "echo 'this is only here so that netlify deploys functions within folders'"
