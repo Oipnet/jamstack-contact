@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Oipnet/jamstack-contact#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "gatsby": "^2.19.32",
+    "gatsby": "^4.25.7",
     "mailgun-js": "^0.22.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
